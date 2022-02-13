@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMovieApp</string>
+    <string name="welcome">Bienvenido!</string>
+    <string name="resume">Estas son las peliculas que sugerimos para ti!\nEsperamos que sean de tu agrado.</string>
+</resources>
